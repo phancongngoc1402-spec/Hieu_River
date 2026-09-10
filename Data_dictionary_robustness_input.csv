@@ -1,0 +1,13 @@
+Variable,Type,Unit/Coding,Definition
+station,factor,station code,"Monitoring-station identifier (M12, M21, M15, M14, M37, M16, M22, M44, M45, M17)"
+round_order,integer,1-4,"Chronological campaign order: 1=March, 2=June, 3=July, 4=September 2025"
+rain_proxy_flag,binary,0/1,1 for stations M16 or M22 using spatial rainfall proxies
+P1_mm,numeric,mm,Rainfall on day t-1
+P3_mm,numeric,mm,Cumulative rainfall over t-3 to t-1
+P7_mm,numeric,mm,Cumulative rainfall over t-7 to t-1
+P14_mm,numeric,mm,Cumulative rainfall over t-14 to t-1
+Rmax7_mm,numeric,mm,Maximum daily rainfall during t-7 to t-1
+P30_mm,numeric,mm,Cumulative rainfall over t-30 to t-1
+log10_TSS,numeric,log10(mg/L),Base-10 logarithm of TSS concentration
+log10_Turbidity,numeric,log10(NTU),Base-10 logarithm of turbidity
+log10_Fe,numeric,log10(mg/L),Base-10 logarithm of Fe concentration
