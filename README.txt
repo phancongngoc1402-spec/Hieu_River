@@ -32,7 +32,5 @@ Bell RM, McCaffrey DF (2002) Survey Methodology 28(2):169-181.
 Cameron AC, Gelbach JB, Miller DL (2008) Review of Economics and Statistics 90(3):414-427.
 Pustejovsky JE, Tipton E (2018) Journal of Business & Economic Statistics 36(4):672-683.
 
-Important
----------
-This bundle does not resolve the pending laboratory-method/fraction verification or author metadata.
-Those fields remain for the authors to confirm before submission.
+
+
