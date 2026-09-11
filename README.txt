@@ -33,4 +33,6 @@ Cameron AC, Gelbach JB, Miller DL (2008) Review of Economics and Statistics 90(3
 Pustejovsky JE, Tipton E (2018) Journal of Business & Economic Statistics 36(4):672-683.
 
 
+Zenodo
+https://doi.org/10.5281/zenodo.22703381
 
